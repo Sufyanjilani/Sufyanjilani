@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning kotline
 - 💞️ I’m looking to collaborate on Android projects , java and kotlin based Application
-- 📫 How to reach me Linkdeen shorturl.at/FIJVX
+- 📫 How to reach me Linkdeen http://shorturl.at/FIJVX
   phone no 0334-3823762
 
 <!---
